@@ -2,7 +2,7 @@
 UNITSUSerial.h
 
 UNITSUSerial.cpp - Wrapper for Arduino SoftwareSerial and HardwareSerial for ESP8266 and ESP32
-Copyright (c) 2018 Gijs Noorlander. All rights reserved.
+Copyright (c) 2018-2050 Gijs Noorlander. All rights reserved.
 
 This library is free software; you can redistribute it and/or
 modify it under the terms of the GNU Lesser General Public
