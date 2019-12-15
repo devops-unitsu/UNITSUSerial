@@ -1,0 +1,15 @@
+{
+    "name": "UNITSUSerial",
+    "version": "1.0.12",
+    "keywords": [
+      "serial", "io", "softwareserial", "hardwareserial"
+    ],
+    "description": "Wrapper for SoftwareSerial and HardwareSerial for ESP8266 and ESP32",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/TD-er/UNITSUSerial/"
+    },
+    "frameworks": "arduino",
+    "platforms": "espressif8266"
+}
